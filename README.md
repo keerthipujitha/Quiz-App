@@ -115,6 +115,6 @@ Always read each question carefully before answering.
 
 If unsure, try to eliminate wrong answers first to increase your chances.
 
-Take your time — there’s no timer in the basic version, so think before you choose.
+Take your time — there’s no timer in the basic version, so think before you choose..
 
 
